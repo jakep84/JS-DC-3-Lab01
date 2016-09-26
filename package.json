@@ -1,0 +1,23 @@
+{
+  "name": "war",
+  "version": "1.0.0",
+  "description": "The card game war",
+  "main": "war.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakep84/JS-DC-3-Lab01.git"
+  },
+  "author": "Jake Priddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakep84/JS-DC-3-Lab01/issues"
+  },
+  "homepage": "https://github.com/jakep84/JS-DC-3-Lab01#readme",
+  "dependencies": {
+    "game-prompt": "0.0.3",
+	"prompt": "^1.0.0"
+  }
+}
